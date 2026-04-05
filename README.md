@@ -2,6 +2,12 @@
  
 
 <br/>
+
+<p align="center">
+  🤝 Shoutout to <a href="https://github.com/KayanShah"><strong>@KayanShah</strong></a> — go check out their profile!
+</p>
+
+### Enjoy this quick animation 
  
 <p align="center">
   <img src="https://github.com/PanshulVempalli/PanshulVempalli/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
@@ -83,6 +89,8 @@
 
 <br/>
 
+### 📶 Github Stats
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=PanshulVempalli&theme=nord&hide_border=true&card_width=450" height="195" alt="Streak" />
   &nbsp;
@@ -100,6 +108,6 @@
 
 <p align="center"> Thank you for the support ❤️  </p>
 
-<p align="center">👇 Check out my public repos below! 👇</p> 
+<p align="center">👇 Check out my public repos below! 👇   - Many more to come </p> 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F3460&height=100&section=footer" />
