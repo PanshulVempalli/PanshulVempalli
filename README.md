@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Panshul Vempalli</h1>
-<h3 align="center">A Passionate VEX Student</h3>
+<h3 align="center">A Passionate UK Student</h3>
 
 <p align="center">
   📫 Reach me at <a href="mailto:panshulvempalli@gmail.com">panshulvempalli@gmail.com</a>
