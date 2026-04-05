@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Panshul Vempalli</h1>
-<h3 align="center">A Passionate Student</h3>
+<h3 align="center">A Passionate VEX Student</h3>
 
 <p align="center">
   📫 Reach me at <a href="mailto:panshulvempalli@gmail.com">panshulvempalli@gmail.com</a>
@@ -8,13 +8,14 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PanshulVempalli&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
+  <img width="400" src="https://streak-stats.demolab.com/?user=PanshulVempalli&theme=radical&card_width=400" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=PanshulVempalli&theme=radical" alt="GitHub Streak" />
+  <img width="400" src="https://github-readme-activity-graph.vercel.app/graph?username=PanshulVempalli&theme=redical" alt="Contribution Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanshulVempalli&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
+  👇 Check out my public repos!
+     I would love to answer any questions 
 </p>
