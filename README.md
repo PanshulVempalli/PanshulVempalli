@@ -84,10 +84,17 @@
 <br/>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=PanshulVempalli&theme=radical&background=0F3460&hide_border=true" height="200" alt="Streak" />
+  <img src="https://streak-stats.demolab.com/?user=PanshulVempalli&theme=nord&hide_border=true&card_width=450" height="195" alt="Streak" />
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PanshulVempalli&theme=nord_dark" height="200" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PanshulVempalli&theme=nord_dark" height="195" alt="Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PanshulVempalli&theme=nord_dark" height="195" alt="Top Languages" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PanshulVempalli&theme=nord_dark&utcOffset=0" height="195" alt="Productive Time" />
+</p>
+
 
 <br/>
 
