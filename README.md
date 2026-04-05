@@ -1,5 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F3460&height=280&section=header&text=Panshul%20Vempalli&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=40&desc=A%20Passionate%20UK%20Based%20Student%20%7C%20panshulvempalli%40gmail.com&descAlignY=60&descSize=16" />
- 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F3460&height=280&section=header&text=Panshul%20Vempalli&fontSize=42&fontColor=fff&animation=scaleIn&fontAlignY=40&desc=A%20Passionate%20UK%20Based%20Student&descAlignY=60&descSize=18" />
+
+<p align="center">
+  📫 <a href="mailto:panshulvempalli@gmail.com">panshulvempalli@gmail.com</a>
+</p>
 
 <br/>
 
@@ -15,9 +18,8 @@
   <img src="https://github.com/PanshulVempalli/PanshulVempalli/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
 </p>
 
-
 <table align="center"><tr>
-<td align="center">🤖 VEX V5 Robotics — Team <strong>34071B Habs-Gliders</strong></td>
+<td align="center">🤖 VEX V5 Robotics — Team <a href="https://habs-gliders-34071b.vercel.app/"><strong>34071B Habs-Gliders</strong></a></td>
 <td align="center"><img src="https://komarev.com/ghpvc/?username=PanshulVempalli&label=Profile+Views&color=0F3460&style=flat" alt="Visitor Count" /></td>
 </tr></table>
 
