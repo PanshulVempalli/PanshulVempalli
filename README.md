@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Panshul Vempalli</h1>
-<h3 align="center">A Passionate UK Student</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B721FF&height=280&section=header&text=Panshul%20Vempalli&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=40&desc=A%20Passionate%20UK%20Based%20Student%20%7C%20panshulvempalli%40gmail.com&descAlignY=60&descSize=16" />
+
+---
 
 <p align="center">
-  📫 Reach me at <a href="mailto:panshulvempalli@gmail.com">panshulvempalli@gmail.com</a>
+  🤖 VEX V5 Robotics — Team <strong>34071B Habs-Gliders</strong>
 </p>
 
 ---
 
 <p align="center">
-  <img width="400" src="https://streak-stats.demolab.com/?user=PanshulVempalli&theme=radical&card_width=400" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=PanshulVempalli&theme=radical" height="180" alt="GitHub Streak" />
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PanshulVempalli&theme=radical" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="400" src="https://github-readme-activity-graph.vercel.app/graph?username=PanshulVempalli&theme=redical" alt="Contribution Graph" />
+  👇 Check out my public repos below!
 </p>
 
-<p align="center">
-  👇 Check out my public repos!
-     I would love to answer any questions 
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B721FF&height=100&section=footer" />
