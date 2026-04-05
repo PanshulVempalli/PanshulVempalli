@@ -4,7 +4,7 @@
 <br/>
 
 <p align="center">
-  🤝 Shoutout to <a href="https://github.com/KayanShah"><strong>@KayanShah</strong></a> — go check out their profile!
+  🤝 Shoutout to <a href="https://github.com/KayanShah"><strong>@KayanShah</strong></a> — go check out his profile!
 </p>
 
 ### Enjoy this quick animation 
