@@ -4,19 +4,16 @@
   📫 <a href="mailto:panshulvempalli@gmail.com">panshulvempalli@gmail.com</a>
 </p>
 
-<br/>
+### 🐍 Enjoy this quick animation
 
-<p align="center">
-  🤝 Shoutout to <a href="https://github.com/KayanShah"><strong>@KayanShah</strong></a> — go check out his profile!
-</p>
-
-
-
-### Enjoy this quick animation 
- 
 <p align="center">
   <img src="https://github.com/PanshulVempalli/PanshulVempalli/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
 </p>
+
+<br/>
+
+
+<br/>
 
 <table align="center"><tr>
 <td align="center">🤖 VEX V5 Robotics — Team <a href="https://habs-gliders-34071b.vercel.app/"><strong>34071B Habs-Gliders</strong></a></td>
@@ -85,7 +82,7 @@
 <td valign="top" width="50%">
 
 ### 💬 Quote of the Day
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula" alt="Quote" />
 <p><sub>⏱ Refreshes on every page load</sub></p>
 
 </td>
@@ -96,22 +93,48 @@
 ### 📶 Github Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=PanshulVempalli&theme=nord&hide_border=true&card_width=450" height="195" alt="Streak" />
+  <img src="https://github-readme-stats-vpyp.vercel.app/api?username=PanshulVempalli&show_icons=true&theme=nord&bg_color=0F3460&hide_border=true" height="195" alt="Stats" />
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PanshulVempalli&theme=nord_dark" height="195" alt="Stats" />
+  <img src="https://github-readme-stats-vpyp.vercel.app/api/top-langs/?username=PanshulVempalli&layout=compact&theme=nord&bg_color=0F3460&hide_border=true" height="195" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PanshulVempalli&theme=nord_dark" height="195" alt="Top Languages" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PanshulVempalli&theme=nord_dark&utcOffset=0" height="195" alt="Productive Time" />
+  <img src="https://streak-stats.demolab.com/?user=PanshulVempalli&theme=nord&background=0F3460&hide_border=true&card_width=450" height="195" alt="Streak" />
 </p>
-
 
 <br/>
 
-<p align="center"> Thank you for the support ❤️  </p>
 
-<p align="center">👇 Check out my public repos below! 👇   - Many more to come </p> 
+
+<p align="center">🤝 Shoutout to <a href="https://github.com/KayanShah"><strong>@KayanShah</strong></a> — go check out his profile!</p>
+
+<br/>
+
+<p align="center">Thank you for the support ❤️</p>
+<p align="center">👇 Check out my public repos below! 👇 — Many more to come</p>
+
+---
+
+<h3 align="center">📌 Featured Projects</h3>
+
+<p align="center">
+  <a href="https://github.com/PanshulVempalli/JAR-template-Example-VEX-Code">
+    <img src="https://github-readme-stats-vpyp.vercel.app/api/pin/?username=PanshulVempalli&repo=JAR-template-Example-VEX-Code&theme=nord&bg_color=0F3460&hide_border=true" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/PanshulVempalli/chooseyouralevel">
+    <img src="https://github-readme-stats-vpyp.vercel.app/api/pin/?username=PanshulVempalli&repo=chooseyouralevel&theme=nord&bg_color=0F3460&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/PanshulVempalli/JAR-template-Example-VEX-Code">
+    <img src="https://img.shields.io/badge/View%20Project-%E2%86%92-0F3460?style=for-the-badge&color=0F3460" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/PanshulVempalli/chooseyouralevel">
+    <img src="https://img.shields.io/badge/View%20Project-%E2%86%92-0F3460?style=for-the-badge&color=0F3460" />
+  </a>
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F3460&height=100&section=footer" />
