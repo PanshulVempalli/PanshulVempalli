@@ -111,6 +111,7 @@
 <br/>
 
 <p align="center">Thank you for the support ❤️</p>
+<p align="center">⭐ If something here was useful or you want to connect, a follow or star goes a long way! ⭐
 <p align="center">👇 Check out my public repos below! 👇 — Many more to come</p>
 
 ---
