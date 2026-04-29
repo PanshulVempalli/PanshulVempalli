@@ -78,6 +78,10 @@
 - Competing with VEX V5 Robotics Team **34071B**
 - Growing my open source contributions
 
+  ------------------------------------------------
+-Update : Won Judges Award at the VEX V5 ms Worlds (2026)
+  Check out my season recap repo for more infomation - pinned below 
+
 </td>
 <td valign="top" width="50%">
 
@@ -119,17 +123,21 @@
 <h3 align="center">📌 Featured Projects</h3>
 
 <p align="center">
-  <a href="https://github.com/PanshulVempalli/JAR-template-Example-VEX-Code">
-    <img src="https://github-readme-stats-vpyp.vercel.app/api/pin/?username=PanshulVempalli&repo=JAR-template-Example-VEX-Code&theme=nord&bg_color=0F3460&hide_border=true" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/PanshulVempalli/chooseyouralevel">
-    <img src="https://github-readme-stats-vpyp.vercel.app/api/pin/?username=PanshulVempalli&repo=chooseyouralevel&theme=nord&bg_color=0F3460&hide_border=true" />
-  </a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-vpyp.vercel.app/api/pin/?username=PanshulVempalli&repo=HABS-Gliders-Pushback-2526&theme=nord&bg_color=0F3460&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-vpyp.vercel.app/api/pin/?username=PanshulVempalli&repo=HABS-Gliders-Pushback-2526&theme=default" />
+  <img src="https://github-readme-stats-vpyp.vercel.app/api/pin/?username=PanshulVempalli&repo=HABS-Gliders-Pushback-2526&theme=nord&bg_color=0F3460&hide_border=true" />
+</picture>
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-vpyp.vercel.app/api/pin/?username=PanshulVempalli&repo=chooseyouralevel&theme=nord&bg_color=0F3460&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-vpyp.vercel.app/api/pin/?username=PanshulVempalli&repo=chooseyouralevel&theme=default" />
+  <img src="https://github-readme-stats-vpyp.vercel.app/api/pin/?username=PanshulVempalli&repo=chooseyouralevel&theme=nord&bg_color=0F3460&hide_border=true" />
+</picture>
 </p>
 
 <p align="center">
-  <a href="https://github.com/PanshulVempalli/JAR-template-Example-VEX-Code">
+  <a href="https://github.com/PanshulVempalli/HABS-Gliders-Pushback-2526">
     <img src="https://img.shields.io/badge/View%20Project-%E2%86%92-0F3460?style=for-the-badge&color=0F3460" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -137,5 +145,7 @@
     <img src="https://img.shields.io/badge/View%20Project-%E2%86%92-0F3460?style=for-the-badge&color=0F3460" />
   </a>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F3460&height=100&section=footer" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F3460&height=100&section=footer" />
