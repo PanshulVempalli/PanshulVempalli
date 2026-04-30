@@ -80,7 +80,7 @@
   
 ### 🔭 Currently Working On
 - Building projects with **TypeScript** and **C++**
-- Competing with VEX V5 Robotics Team **34071B** ✅ 
+- Competing with VEX V5 Robotics Team **34071B** in VEX V5 25/26 ✅
 - Growing my open source contributions
 
 </td>
@@ -94,6 +94,24 @@
 </tr></table>
 
 <br/>
+
+
+
+
+### 📣 Latest Updates
+
+<table>
+<tr>
+<td><b>Apr 2026</b></td>
+<td>🏆 Won Judges Award at MS VEX Worlds with VEX team <a href="https://habs-gliders-34071b.vercel.app/"><strong>34071B Habs-Gliders</strong></a></td>
+<td><img src="trophy.jpg" width="150" /></td>
+<p><sub>Get updated regularly :)</sub></p>
+</tr>
+</table>
+
+<br/>
+
+
 
 ### 📶 Github Stats
 
