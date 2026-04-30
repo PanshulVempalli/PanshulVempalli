@@ -13,14 +13,18 @@
 <br/>
 
 
-<br/>
-
-<table align="center"><tr>
+<table align="center">
+<tr>
 <td align="center">🤖 VEX V5 Robotics — Team <a href="https://habs-gliders-34071b.vercel.app/"><strong>34071B Habs-Gliders</strong></a></td>
 <td align="center"><img src="https://komarev.com/ghpvc/?username=PanshulVempalli&label=Profile+Views&color=0F3460&style=flat" alt="Visitor Count" /></td>
-</tr></table>
+</tr>
+<tr>
+<td align="center">⚡ Greenpower Electric Racing — <a href="https://habspowerstrike.odoo.com/"><strong>HABS Powerstrike</strong></a></td>
+<td align="center"><img src="https://img.shields.io/github/followers/PanshulVempalli?label=Followers&style=flat&color=0F3460&labelColor=555" alt="Followers" /></td>
+</tr>
+</table>
 
-<br/>
+
 
 ### 💻 Languages
 <p align="center">
@@ -105,7 +109,7 @@
 <td><b>Apr 2026</b></td>
 <td>🏆 Won Judges Award at MS VEX Worlds with VEX team <a href="https://habs-gliders-34071b.vercel.app/"><strong>34071B Habs-Gliders</strong></a></td>
 <td><img src="trophy.jpg" width="150" /></td>
-<p><sub>Get updated regularly :)</sub></p>
+<p><sub>Gets updated regularly :)</sub></p>
 </tr>
 </table>
 
