@@ -77,6 +77,7 @@
   <a href="https://runwayml.com"><img src="https://img.shields.io/badge/Runway-000000?style=for-the-badge&logoColor=white" /></a>
 </p>
 
+<p><sub> *clickable links*</sub></p>
 <br/>
 
 <table align="center"><tr>
