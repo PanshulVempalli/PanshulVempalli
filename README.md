@@ -4,7 +4,7 @@
   📫 <a href="mailto:panshulvempalli@gmail.com">panshulvempalli@gmail.com</a>
 </p>
 
-### 🐍 Enjoy this quick animation
+###   🐍 Enjoy this quick animation
 
 <p align="center">
   <img src="https://github.com/PanshulVempalli/PanshulVempalli/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
@@ -28,6 +28,7 @@
   <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts&theme=dark" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" /></a>
   <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py&theme=dark" /></a>
+  
 </p>
 
 ### 🛠️ Tools
@@ -37,12 +38,14 @@
   <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></a>
   <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker&theme=dark" /></a>
   <a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux&theme=dark" /></a>
+  
 </p>
 
 ### ⚙️ Frameworks
 <p align="center">
   <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react&theme=dark" /></a>
   <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" /></a>
+  
 </p>
 
 ### 🤖 AI Tools
@@ -50,6 +53,7 @@
   <a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /></a>
   <a href="https://lovable.dev"><img src="https://img.shields.io/badge/Lovable-FF4D8D?style=for-the-badge&logoColor=white" /></a>
   <a href="https://bolt.new"><img src="https://img.shields.io/badge/Bolt.new-000000?style=for-the-badge&logoColor=white" /></a>
+
 </p>
 
 ### 🧠 AI Frameworks
@@ -57,6 +61,7 @@
   <a href="https://www.tensorflow.org"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" /></a>
   <a href="https://www.jetbrains.com/pycharm"><img src="https://skillicons.dev/icons?i=pycharm&theme=dark" /></a>
   <a href="https://numpy.org"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /></a>
+
 </p>
 
 ### 🎨 AI Generation
@@ -72,15 +77,11 @@
 
 <table align="center"><tr>
 <td valign="top" width="50%">
-
+  
 ### 🔭 Currently Working On
 - Building projects with **TypeScript** and **C++**
-- Competing with VEX V5 Robotics Team **34071B**
+- Competing with VEX V5 Robotics Team **34071B** ✅ 
 - Growing my open source contributions
-
-  ------------------------------------------------
--Update : Won Judges Award at the VEX V5 ms Worlds (2026)
-  Check out my season recap repo for more infomation - pinned below 
 
 </td>
 <td valign="top" width="50%">
