@@ -106,14 +106,19 @@
 
 <table>
 <tr>
+<td><b>Oct 2025</b></td>
+<td>🏎️ Competed at Greenpower International Finals 2025 with <a href="https://habspowerstrike.odoo.com/"><strong>HABS Powerstrike</strong></a></td>
+<td><img src="Race.jpg" width="150" /></td>
+</tr>
+<tr>
 <td><b>Apr 2026</b></td>
 <td>🏆 Won Judges Award at MS VEX Worlds with VEX team <a href="https://habs-gliders-34071b.vercel.app/"><strong>34071B Habs-Gliders</strong></a></td>
 <td><img src="trophy.jpg" width="150" /></td>
-<p><sub>Gets updated regularly :)</sub></p>
 </tr>
 </table>
 
 <br/>
+
 
 
 
