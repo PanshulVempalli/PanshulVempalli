@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F3460&height=280&section=header&text=Panshul%20Vempalli&fontSize=42&fontColor=fff&animation=scaleIn&fontAlignY=40&desc=A%20Passionate%20UK%20Based%20Student&descAlignY=60&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F3460&height=280&section=header&text=Panshul%20Vempalli&fontSize=42&fontColor=fff&animation=scaleIn&fontAlignY=40&desc=&descSize=18" />
 
 <p align="center">
   📫 <a href="mailto:panshulvempalli@gmail.com">panshulvempalli@gmail.com</a>
