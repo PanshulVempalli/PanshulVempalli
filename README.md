@@ -24,6 +24,16 @@
 </tr>
 </table>
 
+## 👋 About Me
+
+- 🤖 Competing in **VEX V5 Robotics** with Team [34071B Habs-Gliders](https://habs-gliders-34071b.vercel.app/) — Won Judges Award at MS VEX Worlds 2026
+- ⚡ Electric car racing with **[HABS Powerstrike](https://habspowerstrike.odoo.com/)** — Competed at Greenpower International Finals 2025
+- 🌐 Building real projects: [chooseyouralevel](https://chooseyouralevel.vercel.app) and more
+- 🤖 Passionate about **AI tools** and how they're changing software development
+- 📍 UK-based student pushing the boundaries of what students can build
+- ⚡ Fun fact: I automate my GitHub profile with GitHub Actions 🐍
+
+
 
 
 ### 💻 Languages
@@ -137,7 +147,16 @@
 
 <br/>
 
+## 🌐 Connect With Me
 
+<p align="left">
+  <a href="mailto:panshulvempalli@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/PanshulVempalli"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <em>✨ A UK student competing in robotics, electric racing, and building real software — one project at a time. ✨</em>
+</p>
 
 <p align="center">🤝 Shoutout to <a href="https://github.com/KayanShah"><strong>@KayanShah</strong></a> — go check out his profile!</p>
 
@@ -174,7 +193,4 @@
     <img src="https://img.shields.io/badge/View%20Project-%E2%86%92-0F3460?style=for-the-badge&color=0F3460" />
   </a>
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F3460&height=100&section=footer" />
-
 
