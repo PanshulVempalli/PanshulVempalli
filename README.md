@@ -33,61 +33,44 @@
 - 📍 UK-based student pushing the boundaries of what students can build
 - ⚡ Fun fact: I automate my GitHub profile with GitHub Actions 🐍
 
+## 🛠️ Tech Stack
 
-
+## 🛠️ Tech Stack
 
 ### 💻 Languages
-<p align="center">
-  <a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" /></a>
-  <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts&theme=dark" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" /></a>
-  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py&theme=dark" /></a>
-  
-</p>
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🛠️ Tools
-<p align="center">
-  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&theme=dark" /></a>
-  <a href="https://github.com/PanshulVempalli"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
-  <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></a>
-  <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker&theme=dark" /></a>
-  <a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux&theme=dark" /></a>
-  
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### ⚙️ Frameworks
-<p align="center">
-  <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react&theme=dark" /></a>
-  <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" /></a>
-  
-</p>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### 🤖 AI Tools
-<p align="center">
-  <a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /></a>
-  <a href="https://lovable.dev"><img src="https://img.shields.io/badge/Lovable-FF4D8D?style=for-the-badge&logoColor=white" /></a>
-  <a href="https://bolt.new"><img src="https://img.shields.io/badge/Bolt.new-000000?style=for-the-badge&logoColor=white" /></a>
-
-</p>
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF6B9D?style=for-the-badge&logo=heart&logoColor=white)
+![Bolt.new](https://img.shields.io/badge/Bolt.new-000000?style=for-the-badge&logo=bolt&logoColor=white)
 
 ### 🧠 AI Frameworks
-<p align="center">
-  <a href="https://www.tensorflow.org"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" /></a>
-  <a href="https://www.jetbrains.com/pycharm"><img src="https://skillicons.dev/icons?i=pycharm&theme=dark" /></a>
-  <a href="https://numpy.org"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /></a>
-
-</p>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### 🎨 AI Generation
-<p align="center">
-  <a href="https://chatgpt.com"><img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" /></a>
-  <a href="https://www.midjourney.com"><img src="https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logoColor=white" /></a>
-  <a href="https://openai.com/dall-e-3"><img src="https://img.shields.io/badge/DALL--E-412991?style=for-the-badge&logo=openai&logoColor=white" /></a>
-  <a href="https://suno.com"><img src="https://img.shields.io/badge/Suno-FF6B35?style=for-the-badge&logoColor=white" /></a>
-  <a href="https://runwayml.com"><img src="https://img.shields.io/badge/Runway-000000?style=for-the-badge&logoColor=white" /></a>
-</p>
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white)
+![DALL·E](https://img.shields.io/badge/DALL·E-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Suno](https://img.shields.io/badge/Suno-FF6B35?style=for-the-badge&logo=music&logoColor=white)
+![Runway](https://img.shields.io/badge/Runway-000000?style=for-the-badge&logo=runway&logoColor=white)
 
-<p><sub> *clickable links*</sub></p>
 <br/>
 
 <table align="center"><tr>
@@ -112,7 +95,6 @@
 
 
 
-
 ### 📣 Latest Updates
 
 <table>
@@ -132,7 +114,6 @@
 
 
 
-
 ### 📶 Github Stats
 
 <p align="center">
@@ -146,6 +127,14 @@
 </p>
 
 <br/>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=PanshulVempalli&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  </a>
+</p>
 
 ## 🌐 Connect With Me
 
