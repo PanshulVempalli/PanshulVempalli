@@ -78,8 +78,10 @@
   
 ### 🔭 Currently Working On
 - Building projects with **TypeScript** and **C++**
-- Competing with VEX V5 Robotics Team **34071B** in VEX V5 25/26 ✅
 - Growing my open source contributions
+- Continuing competing with Greenpower team Habs Powerstike in the 26/27 racing season 
+- Competing with Cansat team Habs Horizons in the 26/27 season
+
 
 </td>
 <td valign="top" width="50%">
