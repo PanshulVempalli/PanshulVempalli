@@ -33,7 +33,6 @@
 - 📍 UK-based student pushing the boundaries of what students can build
 - ⚡ Fun fact: I automate my GitHub profile with GitHub Actions 🐍
 
-## 🛠️ Tech Stack
 
 ## 🛠️ Tech Stack
 
