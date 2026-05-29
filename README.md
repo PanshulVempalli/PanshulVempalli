@@ -2,7 +2,7 @@
 
 <p align="center">
   📫 <a href="mailto:panshulvempalli@gmail.com">panshulvempalli@gmail.com</a>
-</p>
+</p> 
 
 ###   🐍 Enjoy this quick animation
 
