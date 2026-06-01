@@ -1,3 +1,5 @@
+![followers](https://img.shields.io/github/followers/PanshulVempalli?label=Thank%20you%20for%20500%2B%20followers%20%F0%9F%92%99&style=social)
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F3460&height=280&section=header&text=Panshul%20Vempalli&fontSize=42&fontColor=fff&animation=scaleIn&fontAlignY=40&desc=&descSize=18" />
 
 <p align="center">
